@@ -1,0 +1,41 @@
+h1 {
+  color: antiquewhite;
+  font-size: 70px;
+  font-weight: 400;
+}
+h3 {
+  color: rgba(128, 163, 193, 0.7);
+  font-size: 80px;
+  src: url();
+}
+p {
+  color: #daed5b;
+  font-size: 35px;
+  font-weight: 900;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+}
+.lid {
+  font-size: 40px;
+  color: rgb(18, 62, 102);
+}
+#main_header {
+  color: hotpink;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background: burlywood;
+}
+.red {
+  background: rebeccapurple;
+}
+.gold {
+  background: rgb(84, 10, 84);
+  margin-top: 20px;
+  margin-left: 20px;
+  margin: 20px 0 20px 0;
+}
+.green {
+  background: plum;
+}
